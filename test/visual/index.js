@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
 import ReactDOM from 'react-dom';
 import { useLocation, useNavigate } from 'react-router';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router';
 
 import ButtonVisual from './ButtonVisual';
 import Home from './Home';

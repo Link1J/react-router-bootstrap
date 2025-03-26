@@ -1,7 +1,7 @@
 import React from 'react';
 import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
 import Button from 'react-bootstrap/Button';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 import LinkContainer from '../../src/LinkContainer';
 

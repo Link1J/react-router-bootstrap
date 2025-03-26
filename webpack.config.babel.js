@@ -33,11 +33,11 @@ module.exports = (env, argv) => {
         },
       },
       {
-        'react-router-dom': {
+        'react-router': {
           root: 'ReactRouterDOM',
-          commonjs2: 'react-router-dom',
-          commonjs: 'react-router-dom',
-          amd: 'react-router-dom',
+          commonjs2: 'react-router',
+          commonjs: 'react-router',
+          amd: 'react-router',
         },
       },
     ],

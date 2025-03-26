@@ -8,7 +8,7 @@ import {
   MemoryRouter as Router,
   Routes,
   useLocation,
-} from 'react-router-dom';
+} from 'react-router';
 
 import { mount } from 'enzyme';
 import LinkContainer from '../src/LinkContainer';

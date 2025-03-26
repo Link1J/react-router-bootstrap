@@ -50,4 +50,4 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 
 [rr-v3]: https://github.com/react-bootstrap/react-router-bootstrap/tree/rr-v3
 [rr-v4]: https://github.com/react-bootstrap/react-router-bootstrap/tree/rr-v4
-[`<NavLink>`]: https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/api/NavLink.md
+[`<NavLink>`]: https://github.com/ReactTraining/react-router/blob/master/packages/react-router/docs/api/NavLink.md

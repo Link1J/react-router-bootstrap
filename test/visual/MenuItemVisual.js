@@ -2,7 +2,7 @@ import React from 'react';
 import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
 import DropdownItem from 'react-bootstrap/DropdownItem';
 import SplitButton from 'react-bootstrap/SplitButton';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 import LinkContainer from '../../src/LinkContainer';
 
