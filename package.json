@@ -37,7 +37,7 @@
   "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
   "peerDependencies": {
     "react": ">=16.13.1",
-    "react-router-dom": ">=6.0.0"
+    "react-router": ">=7.0.0"
   },
   "prettier": {
     "singleQuote": true,

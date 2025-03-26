@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { useHref, useLocation, useMatch, useNavigate } from 'react-router-dom';
+import { useHref, useLocation, useMatch, useNavigate } from 'react-router';
 
 const isModifiedEvent = (event) =>
   !!(event.metaKey || event.altKey || event.ctrlKey || event.shiftKey);
