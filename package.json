@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
   "peerDependencies": {
-    "react": ">=16.13.1",
+    "react": ">=18.0.0",
     "react-router": ">=7.0.0"
   },
   "prettier": {
@@ -72,10 +72,10 @@
     "jasmine-enzyme": "^7.1.2",
     "jest": "^26.6.3",
     "prettier": "^2.7.1",
-    "react": "^16.14.0",
-    "react-bootstrap": "^1.6.5",
-    "react-dom": "^16.14.0",
-    "react-router-dom": "^6.3.0",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.0.0",
+    "react-router": "^7.0.0",
     "rimraf": "^3.0.2",
     "style-loader": "^3.3.1",
     "url-loader": "^4.1.1",
@@ -84,7 +84,8 @@
     "webpack-dev-server": "^4.9.3"
   },
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-router-bootstrap": "file:"
   },
   "jest": {
     "setupFilesAfterEnv": [
